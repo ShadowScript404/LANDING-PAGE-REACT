@@ -4,4 +4,4 @@ This is a dynamic and modern landing page for a clothing e-commerce website, cre
 
 ## Live Demo
 
-You can see the live version of the project [![Netlify Status](https://dashing-lollipop-8e3f84.netlify.app)
+You can see the live version of the project [![Live Version](https://dashing-lollipop-8e3f84.netlify.app)
