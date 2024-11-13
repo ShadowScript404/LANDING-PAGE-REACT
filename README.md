@@ -1,4 +1,4 @@
-# Clothing Website Landing Page
+# Clothing Website Landing Page using REACT
 
 This project is a responsive landing page for a clothing website built using ReactJS and styled with CSS. The page is designed with a modern, user-friendly interface that showcases clothing items with an image grid and a navigation menu.
 
