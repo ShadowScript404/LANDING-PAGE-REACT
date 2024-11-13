@@ -1,6 +1,6 @@
-# Project Title
+# Lnading-Page-Using-REACT
 
-A brief description of your project.
+This is a dynamic and modern landing page for a clothing e-commerce website, created using ReactJS and CSS. The landing page is component-based, designed for a smooth and responsive user experience across both desktop and mobile devices.
 
 ## Live Demo
 
